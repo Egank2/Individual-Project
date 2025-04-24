@@ -1,4 +1,4 @@
-# Stock Sentiment Analysis
+# Market Sentiment Analysis
 
 This repository contains a project that analyzes the relationship between financial news sentiment and stock market performance. The sentiment of over 2 million financial news headlines was classified using **FinBERT**, a transformer model specialized for financial text.
 
